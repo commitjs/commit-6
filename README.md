@@ -1,8 +1,5 @@
 # commit-6
 
-Speaker: Iliya Idakiev
-Panellists: Aleksander Kostov, Hristyan Hristov.
-
 In the sixth episode of commit.js we'll talk requestIdleCallback and create a work loop that will process the changes and commit them after. We will also talk about scheduling and tackle all the different issues that come along the way.
 
 In the next couple of series we will be developing our own Angular like library that will speed up our development process.
